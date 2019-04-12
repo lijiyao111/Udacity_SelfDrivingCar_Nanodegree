@@ -4,7 +4,7 @@ This is my class project solutions
 
 ## Computer Vision and Deep Learning
 1. CV fundamentals
- **Finding Lane Lines project**
+ _*Finding Lane Lines project*_
 2. Deep Learning
 Traffic Sign Classifier Project
 3. Transfer Learning
