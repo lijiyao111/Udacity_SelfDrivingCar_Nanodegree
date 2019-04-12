@@ -4,36 +4,36 @@ This is my class project solutions
 
 ## Computer Vision and Deep Learning
 1. CV fundamentals
- _*Finding Lane Lines project*_
+**_Finding Lane Lines project_**
 2. Deep Learning
-Traffic Sign Classifier Project
+**_Traffic Sign Classifier Project_**
 3. Transfer Learning
-Behavior Cloning Project
+**_Behavior Cloning Project_**
 4. Advanced Techniques for Lane Finding
-Advanced Lane Finding Project
+**_Advanced Lane Finding Project_**
 5. Machine Learning, Object Detection
-Vehicle Detection and Tracking
+**_Vehicle Detection and Tracking_**
 
 ## Sensor Fusion, Localization and Control
 1. Lidar and Radar Fusion with Kalman filter
-Extended Kalman Filter Project
+**_Extended Kalman Filter Project_**
 2. Unscented Kalman Filter
-Unscented Kalman Filter Project
+**_Unscented Kalman Filter Project_**
 3. Markov Localization and Particle Filter
-Kidnapped Vehicle Project
+**_Kidnapped Vehicle Project_**
 4. PID Control
-PID Control Project
+**_PID Control Project_**
 5. Model Predictive Control
-Model Predictive Control Project
+**_Model Predictive Control Project_**
 
 ## Path Planning, Concentrations, and Systems
 1. Search, Prediction, Behavior Planning, Trajectory Generation
-Path Planning Project
+**_Path Planning Project_**
 2. Elective: Advanced Deep Learning
-Semantic Segmentation Project 
+**_Semantic Segmentation Project_**
 3. Elective: Functional Safety
-Functional Safety Project
+**_Functional Safety Project_**
 4. System Integration and ROS
-System Integration Project 
+**_System Integration Project_**
 
 
