@@ -3,15 +3,15 @@
 This is my class project solutions
 
 ## Computer Vision and Deep Learning
-CV fundamentals
+1. CV fundamentals
 Finding Lane Lines project
-Deep Learning
+2. Deep Learning
 Traffic Sign Classifier Project
-Transfer Learning
+3. Transfer Learning
 Behavior Cloning Project
-Advanced Techniques for Lane Finding
+4. Advanced Techniques for Lane Finding
 Advanced Lane Finding Project
-Machine Learning, Object Detection
+5. Machine Learning, Object Detection
 Vehicle Detection and Tracking
 
 ## Sensor Fusion, Localization,
